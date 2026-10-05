@@ -1,0 +1,6 @@
+{
+  "name": "Simulador de Comércio Exterior - ComexEdu",
+  "description": "Plataforma interativa para aulas práticas de Comércio Exterior: simulação de negociação internacional, NCM, Incoterms, câmbio, logística, emissão de documentos (Invoice, Packing List, BL), parametrização Siscomex e desembaraço aduaneiro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
